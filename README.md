@@ -17,6 +17,6 @@ home page](https://pedrokroger.net/mfgan/).
 You can find more information about "Modern Python Development With
 PyCharm" [at my home page](https://pedrokroger.net/pycharm-book/).
 
-- Download [Bookn in PDF format](https://github.com/kroger/books/raw/master/PyCharmBook.pdf)
-- Download [Bookn in Epub format](https://github.com/kroger/books/raw/master/PyCharmBook.epub)
+- Download [Book in PDF format](https://github.com/kroger/books/raw/master/PyCharmBook.pdf)
+- Download [Book in Epub format](https://github.com/kroger/books/raw/master/PyCharmBook.epub)
 - Download [Book in Mobi format](https://github.com/kroger/books/raw/master/PyCharmBook.mobi)
